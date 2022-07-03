@@ -1,4 +1,21 @@
 # bunshi
+Similar to how molecules are made out of atoms, kanji can be broken down into more basic components.
+
+Bunshi (分子) is a small tool for checking said components on the fly.
+
+## Installation
+Clone the repository and install from source.
+
+```bash
+pip install .
+```
+
+## Usage
+Bunshi works with single kanji, words, or sentences.
+
+```bash
+bunshi 分子は小さなやつだな
+```
 
 ---
 ## Asset Licence
