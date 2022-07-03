@@ -1,42 +1,10 @@
 # This file is part of bunshi, a kanji breakdown cli.
 # License: GNU GPL version 3, see the file "LICENCE" for details.
 
-import argparse
+import bunshi.inout as inout
 
 
-def parse_args():
-    parser = argparse.ArgumentParser()
-
-    parser.add_argument('entry', type=str)
-
-    return parser.parse_args()
-
-
-def load_breakdown():
-    breakdown = dict()
-
-    with open('breakdown.csv', 'r') as f:
-        lines = f.readlines()
-
-        for line in lines:
-            columns = line.split('\t')
-            columns[-1] = columns[-1].replace('\n', '')
-
-            if columns[0] not in breakdown:
-                breakdown[columns[0]] = {
-                    'kanji': columns[0],
-                    'meaning': columns[1],
-                    'reading': columns[2],
-                    'strokes': columns[3],
-                    'components': {},
-                }
-
-            breakdown[columns[0]]['components'][columns[4]] = columns[5]
-
-    return breakdown
-
-
-def _draw_down(col: int, kanji: dict, rows: list) -> list[str]:
+def _draw_down_symbol(col: int, kanji: dict, rows: list) -> list[str]:
     # Insert a column pipe for each existing row.
     for i in range(len(rows)):
         rows[i][col] = '│'
@@ -81,19 +49,13 @@ def draw_down(entry, breakdown):
         symbol = entry[col]
 
         if symbol in breakdown:
-            rows = _draw_down(col*2, breakdown[symbol], rows)
+            rows = _draw_down_symbol(col*2, breakdown[symbol], rows)
 
     for row in rows:
         print(''.join(row))
 
 
-def main():
-    args = parse_args()
-    breakdown = load_breakdown()
-
-    # draw_down(args.entry, breakdown)
-    draw_down(args.entry, breakdown)
-
-
-if __name__ == '__main__':
-    main()
+def draw_breakdown(entry):
+    breakdown = inout._load_breakdown()
+    # Currently, only one drawing method is supported.
+    draw_down(entry, breakdown)
