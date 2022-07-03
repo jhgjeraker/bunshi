@@ -43,15 +43,12 @@ def draw_horisontal(string: str):
     n = len(string)
     rows = []
 
-    breakdown = bunshi.breakdown(string)
-    assert len(breakdown) == n
-
     row = 0
     for i in range(n):
         # Reverse the order to allow for simpler drawing.
         column = n - i - 1
 
-        breakdown_entry = breakdown[column]
+        breakdown_entry = bunshi.breakdown(string[column])
         if breakdown_entry is None:
             continue
 

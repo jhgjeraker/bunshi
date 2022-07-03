@@ -1,6 +1,8 @@
 # This file is part of bunshi, a kanji breakdown cli.
 # License: GNU GPL version 3, see the file "LICENCE" for details.
 
+from typing import Optional
+
 
 def _load_breakdown():
     breakdown = dict()
@@ -37,9 +39,9 @@ def _load_breakdown():
 KANJI_DICT: dict = _load_breakdown()
 
 
-def _breakdown_single(symbol: str) -> dict | None:
-    return KANJI_DICT[symbol] if symbol in KANJI_DICT else None
+def exists(symbol: str) -> bool:
+    return symbol in KANJI_DICT
 
 
-def breakdown(string: str) -> list[dict | None]:
-    return [_breakdown_single(s) for s in string]
+def breakdown(symbol: str) -> Optional[dict]:
+    return KANJI_DICT[symbol] if exists(symbol) else None
