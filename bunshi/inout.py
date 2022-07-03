@@ -19,7 +19,7 @@ def parse_arguments():
 def _load_breakdown():
     breakdown = dict()
 
-    with open('assets/breakdown.tsv', 'r') as f:
+    with open('bunshi/assets/breakdown.tsv', 'r') as f:
         lines = f.readlines()
 
         for line in lines:
