@@ -42,7 +42,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 並	line-up	ヘイ、なみ、ならべる、ならぶ、ならびに	8.0	｜	
 並	line-up	ヘイ、なみ、ならべる、ならぶ、ならびに	8.0	一	one
 並	line-up	ヘイ、なみ、ならべる、ならぶ、ならびに	8.0	二	two
-並	line-up	ヘイ、なみ、ならべる、ならぶ、ならびに	8.0	并	
+並	line-up	ヘイ、なみ、ならべる、ならぶ、ならびに	8.0	并	put together
 中	middle	チュウ、ジュウ、なか	4.0	｜	
 中	middle	チュウ、ジュウ、なか	4.0	口	mouth
 串	skewer	くし	7.0	｜	
@@ -195,7 +195,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 伴	consort	ハン、バン、ともなう	7.0	｜	
 伴	consort	ハン、バン、ともなう	7.0	⺅	
 伴	consort	ハン、バン、ともなう	7.0	二	two
-伴	consort	ハン、バン、ともなう	7.0	并	
+伴	consort	ハン、バン、ともなう	7.0	并	put together
 伴	consort	ハン、バン、ともなう	7.0	十	ten
 伸	lengthen	シン、のびる、のばす、のべる	7.0	｜	
 伸	lengthen	シン、のびる、のばす、のべる	7.0	⺅	
@@ -246,7 +246,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 併	join	ヘイ、あわせる	8.0	一	one
 併	join	ヘイ、あわせる	8.0	⺅	
 併	join	ヘイ、あわせる	8.0	二	two
-併	join	ヘイ、あわせる	8.0	并	
+併	join	ヘイ、あわせる	8.0	并	put together
 併	join	ヘイ、あわせる	8.0	廾	arch
 使	use	シ、つかう	8.0	ノ	
 使	use	シ、つかう	8.0	一	one
@@ -403,7 +403,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 偽	falsehood	ギ、いつわる、にせ	11.0	丶	dot
 偽	falsehood	ギ、いつわる、にせ	11.0	灬	fire
 傍	bystander	ボウ、かたわら	12.0	⺅	
-傍	bystander	ボウ、かたわら	12.0	并	
+傍	bystander	ボウ、かたわら	12.0	并	put together
 傍	bystander	ボウ、かたわら	12.0	方	square
 傍	bystander	ボウ、かたわら	12.0	立	stand
 傍	bystander	ボウ、かたわら	12.0	亠	lid
@@ -454,7 +454,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 像	statue	ゾウ	14.0	一	one
 僕	me	ボク	14.0	王	jade
 僕	me	ボク	14.0	⺅	
-僕	me	ボク	14.0	并	
+僕	me	ボク	14.0	并	put together
 僕	me	ボク	14.0	羊	sheep
 僚	colleague	リョウ	14.0	⺅	
 僚	colleague	リョウ	14.0	小	small
@@ -462,11 +462,11 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 僧	Buddhist priest	ソウ	13.0	⺅	
 僧	Buddhist priest	ソウ	13.0	田	field
 僧	Buddhist priest	ソウ	13.0	日	sun
-僧	Buddhist priest	ソウ	13.0	并	
+僧	Buddhist priest	ソウ	13.0	并	put together
 儀	ceremony	ギ	15.0	一	one
 儀	ceremony	ギ	15.0	王	jade
 儀	ceremony	ギ	15.0	⺅	
-儀	ceremony	ギ	15.0	并	
+儀	ceremony	ギ	15.0	并	put together
 儀	ceremony	ギ	15.0	羊	sheep
 儀	ceremony	ギ	15.0	亅	hook
 儀	ceremony	ギ	15.0	戈	halberd
@@ -552,7 +552,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 兼	concurrently	ケン、かねる	10.0	ヨ	
 兼	concurrently	ケン、かねる	10.0	一	one
 兼	concurrently	ケン、かねる	10.0	ハ	fins
-兼	concurrently	ケン、かねる	10.0	并	
+兼	concurrently	ケン、かねる	10.0	并	put together
 内	inside	ナイ、ダイ、うち	4.0	人	man
 内	inside	ナイ、ダイ、うち	4.0	冂	wide
 円	round, yen	エン、まるい	4.0	冂	wide
@@ -645,7 +645,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 判	judge	ハン、バン	7.0	｜	
 判	judge	ハン、バン	7.0	刂	knife
 判	judge	ハン、バン	7.0	二	two
-判	judge	ハン、バン	7.0	并	
+判	judge	ハン、バン	7.0	并	put together
 判	judge	ハン、バン	7.0	十	ten
 別	separate	ベツ、わかれる	7.0	刂	knife
 別	separate	ベツ、わかれる	7.0	口	mouth
@@ -669,7 +669,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 券	ticket	ケン	8.0	大	big
 券	ticket	ケン	8.0	刀	knife
 券	ticket	ケン	8.0	二	two
-券	ticket	ケン	8.0	并	
+券	ticket	ケン	8.0	并	put together
 刹	temple	サツ、セツ	8.0	刂	knife
 刹	temple	サツ、セツ	8.0	木	tree
 刺	thorn	シ、さす、ささる	8.0	｜	
@@ -691,12 +691,12 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 前	in front	ゼン、まえ	9.0	一	one
 前	in front	ゼン、まえ	9.0	刂	knife
 前	in front	ゼン、まえ	9.0	月	moon
-前	in front	ゼン、まえ	9.0	并	
+前	in front	ゼン、まえ	9.0	并	put together
 剖	divide	ボウ	10.0	刂	knife
 剖	divide	ボウ	10.0	口	mouth
 剖	divide	ボウ	10.0	立	stand
 剛	sturdy	ゴウ	10.0	刂	knife
-剛	sturdy	ゴウ	10.0	并	
+剛	sturdy	ゴウ	10.0	并	put together
 剛	sturdy	ゴウ	10.0	冂	wide
 剛	sturdy	ゴウ	10.0	岡	hill
 剛	sturdy	ゴウ	10.0	山	mountain
@@ -788,7 +788,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 勝	win	ショウ、かつ、まさる	12.0	人	man
 勝	win	ショウ、かつ、まさる	12.0	大	big
 勝	win	ショウ、かつ、まさる	12.0	二	two
-勝	win	ショウ、かつ、まさる	12.0	并	
+勝	win	ショウ、かつ、まさる	12.0	并	put together
 勝	win	ショウ、かつ、まさる	12.0	力	power
 募	recruit	ボ、つのる	12.0	大	big
 募	recruit	ボ、つのる	12.0	日	sun
@@ -848,7 +848,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 午	noon	ゴ	4.0	十	ten
 半	half	ハン、なかば	5.0	｜	
 半	half	ハン、なかば	5.0	二	two
-半	half	ハン、なかば	5.0	并	
+半	half	ハン、なかば	5.0	并	put together
 半	half	ハン、なかば	5.0	十	ten
 卑	lowly	ヒ、いやしい、いやしむ、いやしめる	9.0	十	ten
 卑	lowly	ヒ、いやしい、いやしむ、いやしめる	9.0	田	field
@@ -862,7 +862,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 協	cooperation	キョウ	8.0	力	power
 南	south	ナン、ナ、みなみ	9.0	干	dry
 南	south	ナン、ナ、みなみ	9.0	十	ten
-南	south	ナン、ナ、みなみ	9.0	并	
+南	south	ナン、ナ、みなみ	9.0	并	put together
 南	south	ナン、ナ、みなみ	9.0	冂	wide
 単	simple	タン	9.0	十	ten
 単	simple	タン	9.0	⺌	small
@@ -1025,7 +1025,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 味	flavor	ミ、あじ、あじわう	8.0	亠	lid
 呼	call	コ、よぶ	8.0	ノ	
 呼	call	コ、よぶ	8.0	口	mouth
-呼	call	コ、よぶ	8.0	并	
+呼	call	コ、よぶ	8.0	并	put together
 呼	call	コ、よぶ	8.0	亅	hook
 命	fate	メイ、ミョウ、いのち	8.0	口	mouth
 命	fate	メイ、ミョウ、いのち	8.0	𠆢	
@@ -1037,7 +1037,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 咲	blossom	さく	9.0	人	man
 咲	blossom	さく	9.0	大	big
 咲	blossom	さく	9.0	二	two
-咲	blossom	さく	9.0	并	
+咲	blossom	さく	9.0	并	put together
 咽	throat	イン	9.0	口	mouth
 咽	throat	イン	9.0	大	big
 咽	throat	イン	9.0	囗	enclosure
@@ -1083,7 +1083,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 唾	saliva	ダ、つば	11.0	一	one
 唾	saliva	ダ、つば	11.0	口	mouth
 商	sell	ショウ、あきなう	11.0	口	mouth
-商	sell	ショウ、あきなう	11.0	并	
+商	sell	ショウ、あきなう	11.0	并	put together
 商	sell	ショウ、あきなう	11.0	立	stand
 商	sell	ショウ、あきなう	11.0	亠	lid
 商	sell	ショウ、あきなう	11.0	儿	son, legs
@@ -1097,7 +1097,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 啓	disclose	ケイ	11.0	尸	corpse
 善	good	ゼン、よい	12.0	王	jade
 善	good	ゼン、よい	12.0	口	mouth
-善	good	ゼン、よい	12.0	并	
+善	good	ゼン、よい	12.0	并	put together
 善	good	ゼン、よい	12.0	羊	sheep
 喉	throat	コウ、のど	12.0	⺅	
 喉	throat	コウ、のど	12.0	口	mouth
@@ -1110,7 +1110,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 喜	rejoice	キ、よろこぶ	12.0	口	mouth
 喜	rejoice	キ、よろこぶ	12.0	士	scholar
 喜	rejoice	キ、よろこぶ	12.0	豆	bean
-喜	rejoice	キ、よろこぶ	12.0	并	
+喜	rejoice	キ、よろこぶ	12.0	并	put together
 喝	hoarse	カツ	11.0	口	mouth
 喝	hoarse	カツ	11.0	日	sun
 喝	hoarse	カツ	11.0	勹	wrap
@@ -1183,7 +1183,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 圏	sphere	ケン	12.0	人	man
 圏	sphere	ケン	12.0	大	big
 圏	sphere	ケン	12.0	二	two
-圏	sphere	ケン	12.0	并	
+圏	sphere	ケン	12.0	并	put together
 圏	sphere	ケン	12.0	囗	enclosure
 圏	sphere	ケン	12.0	已	
 園	garden	エン、その	13.0	衣	clothes
@@ -1213,7 +1213,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 坑	pit	コウ	7.0	几	table
 坪	two-mat area	つぼ	8.0	干	dry
 坪	two-mat area	つぼ	8.0	土	earth
-坪	two-mat area	つぼ	8.0	并	
+坪	two-mat area	つぼ	8.0	并	put together
 垂	droop	スイ、たれる、たらす	8.0	｜	
 垂	droop	スイ、たれる、たらす	8.0	ノ	
 垂	droop	スイ、たれる、たらす	8.0	一	one
@@ -1306,7 +1306,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 塊	clod	カイ、かたまり	13.0	厶	private
 塑	model	ソ	13.0	月	moon
 塑	model	ソ	13.0	土	earth
-塑	model	ソ	13.0	并	
+塑	model	ソ	13.0	并	put together
 塑	model	ソ	13.0	屮	sprout
 塔	pagoda	トウ	12.0	口	mouth
 塔	pagoda	トウ	12.0	土	earth
@@ -1346,9 +1346,9 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 増	increase	ゾウ、ます、ふえる、ふやす	14.0	田	field
 増	increase	ゾウ、ます、ふえる、ふやす	14.0	土	earth
 増	increase	ゾウ、ます、ふえる、ふやす	14.0	日	sun
-増	increase	ゾウ、ます、ふえる、ふやす	14.0	并	
+増	increase	ゾウ、ます、ふえる、ふやす	14.0	并	put together
 墜	crash	ツイ	15.0	土	earth
-墜	crash	ツイ	15.0	并	
+墜	crash	ツイ	15.0	并	put together
 墜	crash	ツイ	15.0	豕	pig
 墜	crash	ツイ	15.0	⻖	mound
 墨	black ink	ボク、すみ	14.0	黒	black
@@ -1570,11 +1570,11 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 嫌	dislike	ケン、ゲン、きらう、いや	13.0	ヨ	
 嫌	dislike	ケン、ゲン、きらう、いや	13.0	女	woman
 嫌	dislike	ケン、ゲン、きらう、いや	13.0	ハ	fins
-嫌	dislike	ケン、ゲン、きらう、いや	13.0	并	
+嫌	dislike	ケン、ゲン、きらう、いや	13.0	并	put together
 嫡	legitimate wife	チャク	14.0	口	mouth
 嫡	legitimate wife	チャク	14.0	十	ten
 嫡	legitimate wife	チャク	14.0	女	woman
-嫡	legitimate wife	チャク	14.0	并	
+嫡	legitimate wife	チャク	14.0	并	put together
 嫡	legitimate wife	チャク	14.0	立	stand
 嫡	legitimate wife	チャク	14.0	亠	lid
 嫡	legitimate wife	チャク	14.0	冂	wide
@@ -1734,7 +1734,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 審	examine	シン	15.0	宀	roof
 寮	dormitory	リョウ	15.0	小	small
 寮	dormitory	リョウ	15.0	日	sun
-寮	dormitory	リョウ	15.0	并	
+寮	dormitory	リョウ	15.0	并	put together
 寮	dormitory	リョウ	15.0	𠆢	
 寮	dormitory	リョウ	15.0	宀	roof
 寸	measurement	スン	3.0	寸	inch
@@ -1763,7 +1763,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 尉	military officer	イ	11.0	尸	corpse
 尊	revered	ソン、たっとい、とうとい、たっとぶ、とうとぶ	12.0	寸	inch
 尊	revered	ソン、たっとい、とうとい、たっとぶ、とうとぶ	12.0	酉	wine
-尊	revered	ソン、たっとい、とうとい、たっとぶ、とうとぶ	12.0	并	
+尊	revered	ソン、たっとい、とうとい、たっとぶ、とうとぶ	12.0	并	put together
 尋	inquire	ジン、たずねる	12.0	ヨ	
 尋	inquire	ジン、たずねる	12.0	口	mouth
 尋	inquire	ジン、たずねる	12.0	工	work
@@ -1771,7 +1771,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 導	guide	ドウ、みちびく	15.0	辶	scooter
 導	guide	ドウ、みちびく	15.0	自	self
 導	guide	ドウ、みちびく	15.0	寸	inch
-導	guide	ドウ、みちびく	15.0	并	
+導	guide	ドウ、みちびく	15.0	并	put together
 小	small	ショウ、ちいさい、こ、お	3.0	小	small
 少	few	ショウ、すくない、すこし	4.0	ノ	
 少	few	ショウ、すくない、すこし	4.0	小	small
@@ -1822,7 +1822,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 属	belong	ゾク	12.0	禸	track
 層	stratum	ソウ	14.0	田	field
 層	stratum	ソウ	14.0	日	sun
-層	stratum	ソウ	14.0	并	
+層	stratum	ソウ	14.0	并	put together
 層	stratum	ソウ	14.0	尸	corpse
 履	footgear	リ、はく	15.0	日	sun
 履	footgear	リ、はく	15.0	夂	go
@@ -1837,7 +1837,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 岐	branch off	キ	7.0	支	branch
 岐	branch off	キ	7.0	又	again
 岐	branch off	キ	7.0	十	ten
-岡	hill	おか	8.0	并	
+岡	hill	おか	8.0	并	put together
 岡	hill	おか	8.0	冂	wide
 岡	hill	おか	8.0	一	one
 岡	hill	おか	8.0	山	mountain
@@ -1863,7 +1863,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 峡	gorge	キョウ	9.0	人	man
 峡	gorge	キョウ	9.0	大	big
 峡	gorge	キョウ	9.0	二	two
-峡	gorge	キョウ	9.0	并	
+峡	gorge	キョウ	9.0	并	put together
 峡	gorge	キョウ	9.0	亠	lid
 峰	summit	ホウ、みね	10.0	｜	
 峰	summit	ホウ、みね	10.0	一	one
@@ -1910,12 +1910,12 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 差	distinction	サ、さす	10.0	ノ	
 差	distinction	サ、さす	10.0	王	jade
 差	distinction	サ、さす	10.0	工	work
-差	distinction	サ、さす	10.0	并	
+差	distinction	サ、さす	10.0	并	put together
 差	distinction	サ、さす	10.0	羊	sheep
 己	self	コ、キ、おのれ	3.0	已	
 巻	scroll	カン、まく、まき	9.0	大	big
 巻	scroll	カン、まく、まき	9.0	二	two
-巻	scroll	カン、まく、まき	9.0	并	
+巻	scroll	カン、まく、まき	9.0	并	put together
 巻	scroll	カン、まく、まき	9.0	已	
 巾	towel	キン	3.0	巾	turban
 巾	towel	キン	3.0	冂	wide
@@ -1932,7 +1932,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 希	hope	キ	7.0	一	one
 希	hope	キ	7.0	巾	turban
 帝	sovereign	テイ	9.0	巾	turban
-帝	sovereign	テイ	9.0	并	
+帝	sovereign	テイ	9.0	并	put together
 帝	sovereign	テイ	9.0	立	stand
 帝	sovereign	テイ	9.0	亠	lid
 帝	sovereign	テイ	9.0	冖	cloth cover
@@ -1971,17 +1971,21 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 幕	curtain	マク、バク	13.0	日	sun
 幕	curtain	マク、バク	13.0	⺾	
 幣	cash	ヘイ	15.0	巾	turban
-幣	cash	ヘイ	15.0	并	
+幣	cash	ヘイ	15.0	并	put together
 幣	cash	ヘイ	15.0	冂	wide
 幣	cash	ヘイ	15.0	攵	rap, tap
 干	dry	カン、ほす、ひる	3.0	干	dry
 干	dry	カン、ほす、ひる	3.0	十	ten
 干	dry	カン、ほす、ひる	3.0	一	one
 平	flat	ヘイ、ビョウ、たいら、ひら	5.0	干	dry
-平	flat	ヘイ、ビョウ、たいら、ひら	5.0	并	
+平	flat	ヘイ、ビョウ、たいら、ひら	5.0	并	put together
 年	year	ネン、とし	6.0	ノ	
 年	year	ネン、とし	6.0	一	one
 年	year	ネン、とし	6.0	干	dry
+并	put together	ヘイ、ヒョウ、あわせる、ならぶ	6.0	ノ	
+并	put together	ヘイ、ヒョウ、あわせる、ならぶ	6.0	干	dry
+并	put together	ヘイ、ヒョウ、あわせる、ならぶ	6.0	二	two
+并	put together	ヘイ、ヒョウ、あわせる、ならぶ	6.0	并	put together
 幸	happiness	コウ、さいわい、さち、しあわせ	8.0	十	ten
 幸	happiness	コウ、さいわい、さち、しあわせ	8.0	辛	bitter
 幸	happiness	コウ、さいわい、さち、しあわせ	8.0	立	stand
@@ -2049,7 +2053,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 廉	bargain	レン	13.0	ヨ	
 廉	bargain	レン	13.0	ハ	fins
 廉	bargain	レン	13.0	广	dotted cliff
-廉	bargain	レン	13.0	并	
+廉	bargain	レン	13.0	并	put together
 廊	corridor	ロウ	12.0	艮	stopping
 廊	corridor	ロウ	12.0	⻏	city
 廊	corridor	ロウ	12.0	广	dotted cliff
@@ -2068,7 +2072,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 弊	abuse	ヘイ	15.0	｜	
 弊	abuse	ヘイ	15.0	巾	turban
 弊	abuse	ヘイ	15.0	⺌	small
-弊	abuse	ヘイ	15.0	并	
+弊	abuse	ヘイ	15.0	并	put together
 弊	abuse	ヘイ	15.0	冂	wide
 弊	abuse	ヘイ	15.0	廾	arch
 弊	abuse	ヘイ	15.0	攵	rap, tap
@@ -2085,7 +2089,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 弟	younger brother	テイ、ダイ、デ、おとうと	7.0	｜	
 弟	younger brother	テイ、ダイ、デ、おとうと	7.0	ノ	
 弟	younger brother	テイ、ダイ、デ、おとうと	7.0	弓	bow
-弟	younger brother	テイ、ダイ、デ、おとうと	7.0	并	
+弟	younger brother	テイ、ダイ、デ、おとうと	7.0	并	put together
 弥	all the more	や	8.0	ノ	
 弥	all the more	や	8.0	弓	bow
 弥	all the more	や	8.0	亅	hook
@@ -2164,7 +2168,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 徒	junior	ト	10.0	走	run
 徒	junior	ト	10.0	土	earth
 徒	junior	ト	10.0	彳	step
-従	obey	ジュウ、ショウ、ジュ、したがう、したがえる	10.0	并	
+従	obey	ジュウ、ショウ、ジュ、したがう、したがえる	10.0	并	put together
 従	obey	ジュウ、ショウ、ジュ、したがう、したがえる	10.0	疋	bolt of cloth
 従	obey	ジュウ、ショウ、ジュ、したがう、したがえる	10.0	彳	step
 得	acquire	トク、える、うる	11.0	寸	inch
@@ -2304,7 +2308,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 患	afflicted	カン、わずらう	11.0	口	mouth
 患	afflicted	カン、わずらう	11.0	心	heart
 悦	ecstasy	エツ	10.0	口	mouth
-悦	ecstasy	エツ	10.0	并	
+悦	ecstasy	エツ	10.0	并	put together
 悦	ecstasy	エツ	10.0	忄	heart
 悦	ecstasy	エツ	10.0	忄	heart
 悦	ecstasy	エツ	10.0	儿	son, legs
@@ -2388,7 +2392,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 慄	fear	リツ	13.0	木	tree
 慈	mercy	ジ、いつくしむ	13.0	一	one
 慈	mercy	ジ、いつくしむ	13.0	心	heart
-慈	mercy	ジ、いつくしむ	13.0	并	
+慈	mercy	ジ、いつくしむ	13.0	并	put together
 慈	mercy	ジ、いつくしむ	13.0	幺	short thread
 態	condition	タイ	14.0	月	moon
 態	condition	タイ	14.0	心	heart
@@ -2449,7 +2453,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 憂	melancholy	ユウ、うれえる、うれい、うい	15.0	白	white
 憎	hate	ゾウ、にくむ、にくい、にくらしい、にくしみ	14.0	田	field
 憎	hate	ゾウ、にくむ、にくい、にくらしい、にくしみ	14.0	日	sun
-憎	hate	ゾウ、にくむ、にくい、にくらしい、にくしみ	14.0	并	
+憎	hate	ゾウ、にくむ、にくい、にくらしい、にくしみ	14.0	并	put together
 憎	hate	ゾウ、にくむ、にくい、にくらしい、にくしみ	14.0	忄	heart
 憎	hate	ゾウ、にくむ、にくい、にくらしい、にくしみ	14.0	忄	heart
 憤	aroused	フン、いきどおる	15.0	貝	shell
@@ -2675,7 +2679,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 拭	wipe	ショク、ふく、ぬぐう	9.0	扌	hand
 拳	fist	ケン、こぶし	10.0	一	one
 拳	fist	ケン、こぶし	10.0	手	hand
-拳	fist	ケン、こぶし	10.0	并	
+拳	fist	ケン、こぶし	10.0	并	put together
 拳	fist	ケン、こぶし	10.0	大	big
 拶	be imminent	サツ	9.0	巛	river
 拶	be imminent	サツ	9.0	夕	evening
@@ -2700,7 +2704,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 挟	pinch	キョウ、はさむ、はさまる	9.0	人	man
 挟	pinch	キョウ、はさむ、はさまる	9.0	大	big
 挟	pinch	キョウ、はさむ、はさまる	9.0	二	two
-挟	pinch	キョウ、はさむ、はさまる	9.0	并	
+挟	pinch	キョウ、はさむ、はさまる	9.0	并	put together
 挟	pinch	キョウ、はさむ、はさまる	9.0	丶	dot
 挟	pinch	キョウ、はさむ、はさまる	9.0	亠	lid
 挟	pinch	キョウ、はさむ、はさまる	9.0	扌	hand
@@ -2854,7 +2858,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 摂	vicarious	セツ	13.0	扌	hand
 摘	pinch	テキ、つむ	14.0	口	mouth
 摘	pinch	テキ、つむ	14.0	十	ten
-摘	pinch	テキ、つむ	14.0	并	
+摘	pinch	テキ、つむ	14.0	并	put together
 摘	pinch	テキ、つむ	14.0	立	stand
 摘	pinch	テキ、つむ	14.0	亠	lid
 摘	pinch	テキ、つむ	14.0	冂	wide
@@ -2887,7 +2891,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 撮	snapshot	サツ、とる	15.0	扌	hand
 撲	slap	ボク	15.0	王	jade
 撲	slap	ボク	15.0	人	man
-撲	slap	ボク	15.0	并	
+撲	slap	ボク	15.0	并	put together
 撲	slap	ボク	15.0	羊	sheep
 撲	slap	ボク	15.0	扌	hand
 擁	embrace	ヨウ	16.0	亠	lid
@@ -2958,7 +2962,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 整	put in order	セイ、ととのえる、ととのう	16.0	攵	rap, tap
 敵	enemy	テキ、かたき	15.0	口	mouth
 敵	enemy	テキ、かたき	15.0	十	ten
-敵	enemy	テキ、かたき	15.0	并	
+敵	enemy	テキ、かたき	15.0	并	put together
 敵	enemy	テキ、かたき	15.0	立	stand
 敵	enemy	テキ、かたき	15.0	亠	lid
 敵	enemy	テキ、かたき	15.0	冂	wide
@@ -3003,7 +3007,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 新	new	シン、あたらしい、あらた、にい	13.0	斤	axe
 新	new	シン、あたらしい、あらた、にい	13.0	十	ten
 新	new	シン、あたらしい、あらた、にい	13.0	辛	bitter
-新	new	シン、あたらしい、あらた、にい	13.0	并	
+新	new	シン、あたらしい、あらた、にい	13.0	并	put together
 新	new	シン、あたらしい、あらた、にい	13.0	木	tree
 新	new	シン、あたらしい、あらた、にい	13.0	立	stand
 新	new	シン、あたらしい、あらた、にい	13.0	亠	lid
@@ -3088,7 +3092,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 普	universal	フ	12.0	一	one
 普	universal	フ	12.0	二	two
 普	universal	フ	12.0	日	sun
-普	universal	フ	12.0	并	
+普	universal	フ	12.0	并	put together
 景	scenery	ケイ	12.0	口	mouth
 景	scenery	ケイ	12.0	小	small
 景	scenery	ケイ	12.0	日	sun
@@ -3158,7 +3162,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 曹	cadet	ソウ	11.0	日	sun
 曽	formerly	ソウ、ゾ	11.0	田	field
 曽	formerly	ソウ、ゾ	11.0	日	sun
-曽	formerly	ソウ、ゾ	11.0	并	
+曽	formerly	ソウ、ゾ	11.0	并	put together
 替	exchange	タイ、かえる、かわる	12.0	人	man
 替	exchange	タイ、かえる、かわる	12.0	大	big
 替	exchange	タイ、かえる、かわる	12.0	二	two
@@ -3179,7 +3183,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 朕	majestic plural	チン	10.0	人	man
 朕	majestic plural	チン	10.0	大	big
 朕	majestic plural	チン	10.0	一	one
-朕	majestic plural	チン	10.0	并	
+朕	majestic plural	チン	10.0	并	put together
 朗	melodious	ロウ、ほがらか	10.0	月	moon
 朗	melodious	ロウ、ほがらか	10.0	艮	stopping
 望	hope	ボウ、モウ、のぞむ	11.0	王	jade
@@ -3410,7 +3414,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 業	business	ギョウ、ゴウ、わざ	13.0	｜	
 業	business	ギョウ、ゴウ、わざ	13.0	一	one
 業	business	ギョウ、ゴウ、わざ	13.0	王	jade
-業	business	ギョウ、ゴウ、わざ	13.0	并	
+業	business	ギョウ、ゴウ、わざ	13.0	并	put together
 業	business	ギョウ、ゴウ、わざ	13.0	木	tree
 業	business	ギョウ、ゴウ、わざ	13.0	羊	sheep
 業	business	ギョウ、ゴウ、わざ	13.0	耒	plough
@@ -3436,7 +3440,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 構	construct	コウ、かまえる、かまう	14.0	十	ten
 様	formal title	ヨウ、さま	14.0	王	jade
 様	formal title	ヨウ、さま	14.0	水	water
-様	formal title	ヨウ、さま	14.0	并	
+様	formal title	ヨウ、さま	14.0	并	put together
 様	formal title	ヨウ、さま	14.0	木	tree
 様	formal title	ヨウ、さま	14.0	羊	sheep
 槽	vat	ソウ	15.0	｜	
@@ -3467,7 +3471,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 樹	trees	ジュ	16.0	寸	inch
 樹	trees	ジュ	16.0	土	earth
 樹	trees	ジュ	16.0	豆	bean
-樹	trees	ジュ	16.0	并	
+樹	trees	ジュ	16.0	并	put together
 樹	trees	ジュ	16.0	木	tree
 橋	bridge	キョウ、はし	16.0	ノ	
 橋	bridge	キョウ、はし	16.0	口	mouth
@@ -3713,7 +3717,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 泳	swim	エイ、およぐ	8.0	丶	dot
 洋	ocean	ヨウ	9.0	王	jade
 洋	ocean	ヨウ	9.0	氵	water
-洋	ocean	ヨウ	9.0	并	
+洋	ocean	ヨウ	9.0	并	put together
 洋	ocean	ヨウ	9.0	羊	sheep
 洗	wash	セン、あらう	9.0	ノ	
 洗	wash	セン、あらう	9.0	氵	water
@@ -3911,7 +3915,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 滅	destroy	メツ、ほろびる、ほろぼす	13.0	戈	halberd
 滋	nourishing	ジ	12.0	一	one
 滋	nourishing	ジ	12.0	氵	water
-滋	nourishing	ジ	12.0	并	
+滋	nourishing	ジ	12.0	并	put together
 滋	nourishing	ジ	12.0	幺	short thread
 滑	slippery	カツ、コツ、すべる、なめらか	13.0	月	moon
 滑	slippery	カツ、コツ、すべる、なめらか	13.0	骨	bone
@@ -3928,7 +3932,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 滴	drip	テキ、しずく、したたる	14.0	口	mouth
 滴	drip	テキ、しずく、したたる	14.0	十	ten
 滴	drip	テキ、しずく、したたる	14.0	氵	water
-滴	drip	テキ、しずく、したたる	14.0	并	
+滴	drip	テキ、しずく、したたる	14.0	并	put together
 滴	drip	テキ、しずく、したたる	14.0	立	stand
 滴	drip	テキ、しずく、したたる	14.0	亠	lid
 滴	drip	テキ、しずく、したたる	14.0	冂	wide
@@ -4006,7 +4010,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 澄	lucidity	チョウ、すむ、すます	15.0	口	mouth
 澄	lucidity	チョウ、すむ、すます	15.0	氵	water
 澄	lucidity	チョウ、すむ、すます	15.0	豆	bean
-澄	lucidity	チョウ、すむ、すます	15.0	并	
+澄	lucidity	チョウ、すむ、すます	15.0	并	put together
 澄	lucidity	チョウ、すむ、すます	15.0	癶	footsteps
 激	violent	ゲキ、はげしい	16.0	氵	water
 激	violent	ゲキ、はげしい	16.0	白	white
@@ -4148,7 +4152,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 犠	sacrifice	ギ	17.0	一	one
 犠	sacrifice	ギ	17.0	王	jade
 犠	sacrifice	ギ	17.0	牛	cow
-犠	sacrifice	ギ	17.0	并	
+犠	sacrifice	ギ	17.0	并	put together
 犠	sacrifice	ギ	17.0	羊	sheep
 犠	sacrifice	ギ	17.0	亅	hook
 犠	sacrifice	ギ	17.0	戈	halberd
@@ -4174,7 +4178,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 狭	cramped	キョウ、せまい、せばめる、せばまる	9.0	人	man
 狭	cramped	キョウ、せまい、せばめる、せばまる	9.0	大	big
 狭	cramped	キョウ、せまい、せばめる、せばまる	9.0	二	two
-狭	cramped	キョウ、せまい、せばめる、せばまる	9.0	并	
+狭	cramped	キョウ、せまい、せばめる、せばまる	9.0	并	put together
 狭	cramped	キョウ、せまい、せばめる、せばまる	9.0	犭	dog
 狭	cramped	キョウ、せまい、せばめる、せばまる	9.0	丶	dot
 狭	cramped	キョウ、せまい、せばめる、せばまる	9.0	亠	lid
@@ -4191,10 +4195,10 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 献	offering	ケン、コン	13.0	干	dry
 献	offering	ケン、コン	13.0	犬	dog
 献	offering	ケン、コン	13.0	十	ten
-献	offering	ケン、コン	13.0	并	
+献	offering	ケン、コン	13.0	并	put together
 献	offering	ケン、コン	13.0	冂	wide
 猶	furthermore	ユウ	12.0	酉	wine
-猶	furthermore	ユウ	12.0	并	
+猶	furthermore	ユウ	12.0	并	put together
 猶	furthermore	ユウ	12.0	犭	dog
 猿	monkey	エン、さる	13.0	衣	clothes
 猿	monkey	エン、さる	13.0	口	mouth
@@ -4276,7 +4280,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 瓦	tile	ガ、かわら	5.0	瓦	tile
 瓦	tile	ガ、かわら	5.0	一	one
 瓶	flower pot	ビン	11.0	瓦	tile
-瓶	flower pot	ビン	11.0	并	
+瓶	flower pot	ビン	11.0	并	put together
 甘	sweet	カン、あまい、あまえる、あまやかす	5.0	甘	sweet
 甚	tremendously	ジン、はなはだ、はなはだしい	9.0	一	one
 甚	tremendously	ジン、はなはだ、はなはだしい	9.0	甘	sweet
@@ -4284,7 +4288,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 生	life	セイ、ショウ、いきる、いかす、いける、うまれる、うむ、おう、はえる、はやす、き、なま	5.0	生	life
 産	give birth	サン、うむ、うまれる、うぶ	11.0	ノ	
 産	give birth	サン、うむ、うまれる、うぶ	11.0	生	life
-産	give birth	サン、うむ、うまれる、うぶ	11.0	并	
+産	give birth	サン、うむ、うまれる、うぶ	11.0	并	put together
 産	give birth	サン、うむ、うまれる、うぶ	11.0	立	stand
 産	give birth	サン、うむ、うまれる、うぶ	11.0	亠	lid
 産	give birth	サン、うむ、うまれる、うぶ	11.0	厂	cliff
@@ -4318,7 +4322,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 畔	paddy-ridge	ハン	10.0	｜	
 畔	paddy-ridge	ハン	10.0	田	field
 畔	paddy-ridge	ハン	10.0	二	two
-畔	paddy-ridge	ハン	10.0	并	
+畔	paddy-ridge	ハン	10.0	并	put together
 畔	paddy-ridge	ハン	10.0	十	ten
 留	detain	リュウ、ル、とめる、とまる	10.0	田	field
 留	detain	リュウ、ル、とめる、とまる	10.0	刀	knife
@@ -4377,7 +4381,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 痕	mark	コン、あと	11.0	疒	sickness
 痘	pox	トウ	12.0	口	mouth
 痘	pox	トウ	12.0	豆	bean
-痘	pox	トウ	12.0	并	
+痘	pox	トウ	12.0	并	put together
 痘	pox	トウ	12.0	疒	sickness
 痛	pain	ツウ、いたい、いたむ、いためる	12.0	用	use
 痛	pain	ツウ、いたい、いたむ、いためる	12.0	疒	sickness
@@ -4397,7 +4401,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 瘍	boil (medical)	ヨウ	14.0	疒	sickness
 療	heal	リョウ	17.0	小	small
 療	heal	リョウ	17.0	日	sun
-療	heal	リョウ	17.0	并	
+療	heal	リョウ	17.0	并	put together
 療	heal	リョウ	17.0	𠆢	
 療	heal	リョウ	17.0	疒	sickness
 癒	healing	ユ、いえる、いやす	18.0	刂	knife
@@ -4416,7 +4420,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 発	departure	ハツ、ホツ	9.0	癶	footsteps
 登	climb	トウ、ト、のぼる	12.0	口	mouth
 登	climb	トウ、ト、のぼる	12.0	豆	bean
-登	climb	トウ、ト、のぼる	12.0	并	
+登	climb	トウ、ト、のぼる	12.0	并	put together
 登	climb	トウ、ト、のぼる	12.0	癶	footsteps
 白	white	ハク、ビャク、しろ、しら、しろい	5.0	白	white
 百	hundred	ヒャク	6.0	一	one
@@ -4437,7 +4441,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 益	benefit	エキ、ヤク	10.0	一	one
 益	benefit	エキ、ヤク	10.0	皿	dish
 益	benefit	エキ、ヤク	10.0	ハ	fins
-益	benefit	エキ、ヤク	10.0	并	
+益	benefit	エキ、ヤク	10.0	并	put together
 盗	steal	トウ、ぬすむ	11.0	欠	lack
 盗	steal	トウ、ぬすむ	11.0	皿	dish
 盗	steal	トウ、ぬすむ	11.0	冫	ice
@@ -4496,7 +4500,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 眼	eyeball	ガン、ゲン、まなこ	11.0	目	eye
 着	wear	チャク、ジャク、きる、きせる、つく、つける	12.0	ノ	
 着	wear	チャク、ジャク、きる、きせる、つく、つける	12.0	王	jade
-着	wear	チャク、ジャク、きる、きせる、つく、つける	12.0	并	
+着	wear	チャク、ジャク、きる、きせる、つく、つける	12.0	并	put together
 着	wear	チャク、ジャク、きる、きせる、つく、つける	12.0	目	eye
 着	wear	チャク、ジャク、きる、きせる、つく、つける	12.0	羊	sheep
 睡	drowsy	スイ	13.0	｜	
@@ -4518,7 +4522,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 瞬	wink	シュン、またたく	18.0	冖	cloth cover
 瞭	clear	リョウ	17.0	小	small
 瞭	clear	リョウ	17.0	日	sun
-瞭	clear	リョウ	17.0	并	
+瞭	clear	リョウ	17.0	并	put together
 瞭	clear	リョウ	17.0	目	eye
 瞭	clear	リョウ	17.0	𠆢	
 瞳	pupil	ドウ、ひとみ	17.0	目	eye
@@ -4534,7 +4538,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 知	know	チ、しる	8.0	矢	arrow
 短	short	タン、みじかい	12.0	口	mouth
 短	short	タン、みじかい	12.0	豆	bean
-短	short	タン、みじかい	12.0	并	
+短	short	タン、みじかい	12.0	并	put together
 短	short	タン、みじかい	12.0	矢	arrow
 矯	rectify	キョウ、ためる	17.0	ノ	
 矯	rectify	キョウ、ためる	17.0	口	mouth
@@ -4597,7 +4601,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 磁	magnet	ジ	14.0	一	one
 磁	magnet	ジ	14.0	口	mouth
 磁	magnet	ジ	14.0	石	stone
-磁	magnet	ジ	14.0	并	
+磁	magnet	ジ	14.0	并	put together
 磁	magnet	ジ	14.0	幺	short thread
 磨	grind	マ、みがく	16.0	口	mouth
 磨	grind	マ、みがく	16.0	石	stone
@@ -4634,7 +4638,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 神	god	シン、ジン、かみ、かん、こう	9.0	礻	spirit
 神	god	シン、ジン、かみ、かん、こう	9.0	田	field
 祥	auspicious	ショウ	10.0	王	jade
-祥	auspicious	ショウ	10.0	并	
+祥	auspicious	ショウ	10.0	并	put together
 祥	auspicious	ショウ	10.0	羊	sheep
 祥	auspicious	ショウ	10.0	礻	spirit
 票	ballot	ヒョウ	11.0	示	spirit
@@ -4695,7 +4699,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 程	extent	テイ、ほど	12.0	口	mouth
 税	tax	ゼイ	12.0	禾	grain
 税	tax	ゼイ	12.0	口	mouth
-税	tax	ゼイ	12.0	并	
+税	tax	ゼイ	12.0	并	put together
 税	tax	ゼイ	12.0	儿	son, legs
 稚	immature	チ	13.0	禾	grain
 稚	immature	チ	13.0	隹	short-tailed bird
@@ -4788,7 +4792,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 窮	hard up	キュウ、きわめる、きわまる	15.0	宀	roof
 窯	kiln	ヨウ、かま	15.0	王	jade
 窯	kiln	ヨウ、かま	15.0	穴	cave
-窯	kiln	ヨウ、かま	15.0	并	
+窯	kiln	ヨウ、かま	15.0	并	put together
 窯	kiln	ヨウ、かま	15.0	羊	sheep
 窯	kiln	ヨウ、かま	15.0	儿	son, legs
 窯	kiln	ヨウ、かま	15.0	宀	roof
@@ -4897,7 +4901,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 籠	basket	ロウ、かご、こもる	22.0	立	stand
 米	rice	ベイ、マイ、こめ	6.0	米	rice
 粉	flour	フン、こ、こな	10.0	刀	knife
-粉	flour	フン、こ、こな	10.0	并	
+粉	flour	フン、こ、こな	10.0	并	put together
 粉	flour	フン、こ、こな	10.0	米	rice
 粉	flour	フン、こ、こな	10.0	ハ	fins
 粋	chic	スイ、いき	10.0	九	nine
@@ -5099,7 +5103,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 綱	hawser	コウ、つな	14.0	糸	silk
 綱	hawser	コウ、つな	14.0	幺	short thread
 綱	hawser	コウ、つな	14.0	小	small
-綱	hawser	コウ、つな	14.0	并	
+綱	hawser	コウ、つな	14.0	并	put together
 綱	hawser	コウ、つな	14.0	冂	wide
 綱	hawser	コウ、つな	14.0	山	mountain
 綱	hawser	コウ、つな	14.0	一	one
@@ -5108,7 +5112,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 網	netting	モウ、あみ	14.0	糸	silk
 網	netting	モウ、あみ	14.0	幺	short thread
 網	netting	モウ、あみ	14.0	小	small
-網	netting	モウ、あみ	14.0	并	
+網	netting	モウ、あみ	14.0	并	put together
 網	netting	モウ、あみ	14.0	冂	wide
 綻	rip	タン、ほころびる	14.0	糸	silk
 綻	rip	タン、ほころびる	14.0	幺	short thread
@@ -5151,7 +5155,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 締	tighten	テイ、しまる、しめる	15.0	糸	silk
 締	tighten	テイ、しまる、しめる	15.0	幺	short thread
 締	tighten	テイ、しまる、しめる	15.0	小	small
-締	tighten	テイ、しまる、しめる	15.0	并	
+締	tighten	テイ、しまる、しめる	15.0	并	put together
 締	tighten	テイ、しまる、しめる	15.0	立	stand
 締	tighten	テイ、しまる、しめる	15.0	亠	lid
 締	tighten	テイ、しまる、しめる	15.0	冖	cloth cover
@@ -5214,7 +5218,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 縦	vertical	ジュウ、たて	16.0	糸	silk
 縦	vertical	ジュウ、たて	16.0	幺	short thread
 縦	vertical	ジュウ、たて	16.0	小	small
-縦	vertical	ジュウ、たて	16.0	并	
+縦	vertical	ジュウ、たて	16.0	并	put together
 縦	vertical	ジュウ、たて	16.0	疋	bolt of cloth
 縦	vertical	ジュウ、たて	16.0	彳	step
 縫	sew	ホウ、ぬう	16.0	｜	
@@ -5262,7 +5266,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 繕	darning	ゼン、つくろう	18.0	糸	silk
 繕	darning	ゼン、つくろう	18.0	幺	short thread
 繕	darning	ゼン、つくろう	18.0	小	small
-繕	darning	ゼン、つくろう	18.0	并	
+繕	darning	ゼン、つくろう	18.0	并	put together
 繕	darning	ゼン、つくろう	18.0	羊	sheep
 繭	cocoon	ケン、まゆ	18.0	糸	silk
 繭	cocoon	ケン、まゆ	18.0	幺	short thread
@@ -5305,31 +5309,31 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 羅	gauze	ラ	19.0	罒	
 羅	gauze	ラ	19.0	隹	short-tailed bird
 羊	sheep	ヨウ、ひつじ	6.0	王	jade
-羊	sheep	ヨウ、ひつじ	6.0	并	
+羊	sheep	ヨウ、ひつじ	6.0	并	put together
 羊	sheep	ヨウ、ひつじ	6.0	羊	sheep
 美	beauty	ビ、うつくしい	9.0	王	jade
 美	beauty	ビ、うつくしい	9.0	大	big
-美	beauty	ビ、うつくしい	9.0	并	
+美	beauty	ビ、うつくしい	9.0	并	put together
 美	beauty	ビ、うつくしい	9.0	羊	sheep
 羞	feel ashamed	シュウ	11.0	ノ	
 羞	feel ashamed	シュウ	11.0	ヨ	
 羞	feel ashamed	シュウ	11.0	王	jade
-羞	feel ashamed	シュウ	11.0	并	
+羞	feel ashamed	シュウ	11.0	并	put together
 羞	feel ashamed	シュウ	11.0	羊	sheep
 群	flock	グン、むれる、むれ、むら	13.0	一	one
 群	flock	グン、むれる、むれ、むら	13.0	王	jade
 群	flock	グン、むれる、むれ、むら	13.0	口	mouth
-群	flock	グン、むれる、むれ、むら	13.0	并	
+群	flock	グン、むれる、むれ、むら	13.0	并	put together
 群	flock	グン、むれる、むれ、むら	13.0	羊	sheep
 群	flock	グン、むれる、むれ、むら	13.0	ノ	
 羨	envy	セン、うらやむ、うらやましい	13.0	王	jade
 羨	envy	セン、うらやむ、うらやましい	13.0	欠	lack
 羨	envy	セン、うらやむ、うらやましい	13.0	氵	water
-羨	envy	セン、うらやむ、うらやましい	13.0	并	
+羨	envy	セン、うらやむ、うらやましい	13.0	并	put together
 羨	envy	セン、うらやむ、うらやましい	13.0	羊	sheep
 義	righteousness	ギ	13.0	一	one
 義	righteousness	ギ	13.0	王	jade
-義	righteousness	ギ	13.0	并	
+義	righteousness	ギ	13.0	并	put together
 義	righteousness	ギ	13.0	羊	sheep
 義	righteousness	ギ	13.0	亅	hook
 義	righteousness	ギ	13.0	戈	halberd
@@ -5475,7 +5479,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 脚	leg	キャク、キャ、あし	11.0	厶	private
 脱	undress	ダツ、ぬぐ、ぬげる	11.0	月	moon
 脱	undress	ダツ、ぬぐ、ぬげる	11.0	口	mouth
-脱	undress	ダツ、ぬぐ、ぬげる	11.0	并	
+脱	undress	ダツ、ぬぐ、ぬげる	11.0	并	put together
 脱	undress	ダツ、ぬぐ、ぬげる	11.0	儿	son, legs
 脳	brain	ノウ	11.0	月	moon
 脳	brain	ノウ	11.0	⺌	small
@@ -5527,12 +5531,12 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 膨	swell	ボウ、ふくらむ、ふくれる	16.0	十	ten
 膨	swell	ボウ、ふくらむ、ふくれる	16.0	土	earth
 膨	swell	ボウ、ふくらむ、ふくれる	16.0	豆	bean
-膨	swell	ボウ、ふくらむ、ふくれる	16.0	并	
+膨	swell	ボウ、ふくらむ、ふくれる	16.0	并	put together
 膨	swell	ボウ、ふくらむ、ふくれる	16.0	彡	bristle
 膳	tray	ゼン	16.0	王	jade
 膳	tray	ゼン	16.0	月	moon
 膳	tray	ゼン	16.0	口	mouth
-膳	tray	ゼン	16.0	并	
+膳	tray	ゼン	16.0	并	put together
 膳	tray	ゼン	16.0	羊	sheep
 臆	timidity	オク	17.0	音	sound
 臆	timidity	オク	17.0	月	moon
@@ -5618,7 +5622,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 艶	glossy	エン、つや	19.0	色	color
 艶	glossy	エン、つや	19.0	豆	bean
 艶	glossy	エン、つや	19.0	日	sun
-艶	glossy	エン、つや	19.0	并	
+艶	glossy	エン、つや	19.0	并	put together
 艶	glossy	エン、つや	19.0	勹	wrap
 芋	potato	いも	6.0	一	one
 芋	potato	いも	6.0	⺾	
@@ -5743,7 +5747,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 薪	fuel	シン、たきぎ	16.0	斤	axe
 薪	fuel	シン、たきぎ	16.0	十	ten
 薪	fuel	シン、たきぎ	16.0	辛	bitter
-薪	fuel	シン、たきぎ	16.0	并	
+薪	fuel	シン、たきぎ	16.0	并	put together
 薪	fuel	シン、たきぎ	16.0	木	tree
 薪	fuel	シン、たきぎ	16.0	立	stand
 薪	fuel	シン、たきぎ	16.0	⺾	
@@ -5965,7 +5969,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 親	parent	シン、おや、したしい、したしむ	16.0	見	see
 親	parent	シン、おや、したしい、したしむ	16.0	十	ten
 親	parent	シン、おや、したしい、したしむ	16.0	辛	bitter
-親	parent	シン、おや、したしい、したしむ	16.0	并	
+親	parent	シン、おや、したしい、したしむ	16.0	并	put together
 親	parent	シン、おや、したしい、したしむ	16.0	木	tree
 親	parent	シン、おや、したしい、したしむ	16.0	立	stand
 親	parent	シン、おや、したしい、したしむ	16.0	亠	lid
@@ -6034,7 +6038,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 評	evaluate	ヒョウ	12.0	一	one
 評	evaluate	ヒョウ	12.0	言	speech
 評	evaluate	ヒョウ	12.0	二	two
-評	evaluate	ヒョウ	12.0	并	
+評	evaluate	ヒョウ	12.0	并	put together
 詞	poetry	シ	12.0	言	speech
 詞	poetry	シ	12.0	口	mouth
 詞	poetry	シ	12.0	亅	hook
@@ -6062,7 +6066,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 該	above-stated	ガイ	13.0	亠	lid
 詳	detailed	ショウ、くわしい	13.0	王	jade
 詳	detailed	ショウ、くわしい	13.0	言	speech
-詳	detailed	ショウ、くわしい	13.0	并	
+詳	detailed	ショウ、くわしい	13.0	并	put together
 詳	detailed	ショウ、くわしい	13.0	羊	sheep
 誇	boast	コ、ほこる	13.0	言	speech
 誇	boast	コ、ほこる	13.0	大	big
@@ -6071,7 +6075,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 誉	reputation	ヨ、ほまれ	13.0	一	one
 誉	reputation	ヨ、ほまれ	13.0	言	speech
 誉	reputation	ヨ、ほまれ	13.0	⺌	small
-誉	reputation	ヨ、ほまれ	13.0	并	
+誉	reputation	ヨ、ほまれ	13.0	并	put together
 誌	document	シ	14.0	言	speech
 誌	document	シ	14.0	士	scholar
 誌	document	シ	14.0	心	heart
@@ -6101,7 +6105,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 誤	mistake	ゴ、あやまる	14.0	ハ	fins
 説	theory	セツ、ゼイ、とく	14.0	言	speech
 説	theory	セツ、ゼイ、とく	14.0	口	mouth
-説	theory	セツ、ゼイ、とく	14.0	并	
+説	theory	セツ、ゼイ、とく	14.0	并	put together
 説	theory	セツ、ゼイ、とく	14.0	儿	son, legs
 読	read	ドク、トク、トウ、よむ	14.0	言	speech
 読	read	ドク、トク、トウ、よむ	14.0	士	scholar
@@ -6131,7 +6135,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 論	theory	ロン	15.0	冊	counter for books
 諦	abandon	テイ、あきらめる	16.0	巾	turban
 諦	abandon	テイ、あきらめる	16.0	言	speech
-諦	abandon	テイ、あきらめる	16.0	并	
+諦	abandon	テイ、あきらめる	16.0	并	put together
 諦	abandon	テイ、あきらめる	16.0	立	stand
 諦	abandon	テイ、あきらめる	16.0	亠	lid
 諦	abandon	テイ、あきらめる	16.0	冖	cloth cover
@@ -6169,7 +6173,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 謙	self-effacing	ケン	17.0	ヨ	
 謙	self-effacing	ケン	17.0	言	speech
 謙	self-effacing	ケン	17.0	ハ	fins
-謙	self-effacing	ケン	17.0	并	
+謙	self-effacing	ケン	17.0	并	put together
 講	lecture	コウ	17.0	言	speech
 講	lecture	コウ	17.0	冂	wide
 講	lecture	コウ	17.0	一	one
@@ -6195,7 +6199,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 譜	musical score	フ	19.0	言	speech
 譜	musical score	フ	19.0	二	two
 譜	musical score	フ	19.0	日	sun
-譜	musical score	フ	19.0	并	
+譜	musical score	フ	19.0	并	put together
 警	guard against	ケイ	19.0	言	speech
 警	guard against	ケイ	19.0	口	mouth
 警	guard against	ケイ	19.0	勹	wrap
@@ -6205,7 +6209,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 議	deliberation	ギ	20.0	一	one
 議	deliberation	ギ	20.0	王	jade
 議	deliberation	ギ	20.0	言	speech
-議	deliberation	ギ	20.0	并	
+議	deliberation	ギ	20.0	并	put together
 議	deliberation	ギ	20.0	羊	sheep
 議	deliberation	ギ	20.0	亅	hook
 議	deliberation	ギ	20.0	戈	halberd
@@ -6224,13 +6228,13 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 谷	valley	コク、たに	7.0	𠆢	
 豆	beans	トウ、ズ、まめ	7.0	口	mouth
 豆	beans	トウ、ズ、まめ	7.0	豆	bean
-豆	beans	トウ、ズ、まめ	7.0	并	
+豆	beans	トウ、ズ、まめ	7.0	并	put together
 豊	bountiful	ホウ、ゆたか	13.0	｜	
 豊	bountiful	ホウ、ゆたか	13.0	一	one
 豊	bountiful	ホウ、ゆたか	13.0	口	mouth
 豊	bountiful	ホウ、ゆたか	13.0	豆	bean
 豊	bountiful	ホウ、ゆたか	13.0	日	sun
-豊	bountiful	ホウ、ゆたか	13.0	并	
+豊	bountiful	ホウ、ゆたか	13.0	并	put together
 豚	pork	トン、ぶた	11.0	月	moon
 豚	pork	トン、ぶた	11.0	豕	pig
 象	elephant	ショウ、ゾウ	12.0	勹	wrap
@@ -6415,7 +6419,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 贈	presents	ゾウ、ソウ、おくる	18.0	ハ	fins
 贈	presents	ゾウ、ソウ、おくる	18.0	田	field
 贈	presents	ゾウ、ソウ、おくる	18.0	日	sun
-贈	presents	ゾウ、ソウ、おくる	18.0	并	
+贈	presents	ゾウ、ソウ、おくる	18.0	并	put together
 赤	red	セキ、シャク、あか、あかい、あからむ、あからめる	7.0	赤	red
 赤	red	セキ、シャク、あか、あかい、あからむ、あからめる	7.0	土	earth
 赦	pardon	シャ	11.0	赤	red
@@ -6594,14 +6598,14 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 退	retreat	タイ、しりぞく、しりぞける	9.0	辶	scooter
 退	retreat	タイ、しりぞく、しりぞける	9.0	艮	stopping
 送	send	ソウ、おくる	9.0	辶	scooter
-送	send	ソウ、おくる	9.0	并	
+送	send	ソウ、おくる	9.0	并	put together
 送	send	ソウ、おくる	9.0	大	big
 送	send	ソウ、おくる	9.0	一	one
 逃	escape	トウ、にげる、にがす、のがす、のがれる	9.0	辶	scooter
 逃	escape	トウ、にげる、にがす、のがす、のがれる	9.0	儿	son, legs
 逃	escape	トウ、にげる、にがす、のがす、のがれる	9.0	冫	ice
 逆	inverted	ギャク、さか、さからう	9.0	辶	scooter
-逆	inverted	ギャク、さか、さからう	9.0	并	
+逆	inverted	ギャク、さか、さからう	9.0	并	put together
 逆	inverted	ギャク、さか、さからう	9.0	屮	sprout
 透	transparent	トウ、すく、すかす、すける	10.0	ノ	
 透	transparent	トウ、すく、すかす、すける	10.0	禾	grain
@@ -6653,11 +6657,11 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 逸	deviate	イツ	11.0	儿	son, legs
 逸	deviate	イツ	11.0	勹	wrap
 遂	consummate	スイ、とげる	12.0	辶	scooter
-遂	consummate	スイ、とげる	12.0	并	
+遂	consummate	スイ、とげる	12.0	并	put together
 遂	consummate	スイ、とげる	12.0	豕	pig
 遅	slow	チ、おくれる、おくらす、おそい	12.0	王	jade
 遅	slow	チ、おくれる、おくらす、おそい	12.0	辶	scooter
-遅	slow	チ、おくれる、おくらす、おそい	12.0	并	
+遅	slow	チ、おくれる、おくらす、おそい	12.0	并	put together
 遅	slow	チ、おくれる、おくらす、おそい	12.0	羊	sheep
 遅	slow	チ、おくれる、おくらす、おそい	12.0	尸	corpse
 遇	interview	グウ	12.0	辶	scooter
@@ -6683,12 +6687,12 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 過	go beyond	カ、すぎる、すごす、あやまつ、あやまち	12.0	冂	wide
 道	road	ドウ、トウ、みち	12.0	辶	scooter
 道	road	ドウ、トウ、みち	12.0	自	self
-道	road	ドウ、トウ、みち	12.0	并	
+道	road	ドウ、トウ、みち	12.0	并	put together
 道	road	ドウ、トウ、みち	12.0	首	head
 達	attain	タツ	12.0	王	jade
 達	attain	タツ	12.0	辶	scooter
 達	attain	タツ	12.0	土	earth
-達	attain	タツ	12.0	并	
+達	attain	タツ	12.0	并	put together
 達	attain	タツ	12.0	羊	sheep
 違	differ	イ、ちがう、ちがえる	13.0	口	mouth
 違	differ	イ、ちがう、ちがえる	13.0	辶	scooter
@@ -6704,7 +6708,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 適	suitable	テキ	14.0	口	mouth
 適	suitable	テキ	14.0	辶	scooter
 適	suitable	テキ	14.0	十	ten
-適	suitable	テキ	14.0	并	
+適	suitable	テキ	14.0	并	put together
 適	suitable	テキ	14.0	立	stand
 適	suitable	テキ	14.0	亠	lid
 適	suitable	テキ	14.0	冂	wide
@@ -6720,7 +6724,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 遵	abide by	ジュン	15.0	辶	scooter
 遵	abide by	ジュン	15.0	寸	inch
 遵	abide by	ジュン	15.0	酉	wine
-遵	abide by	ジュン	15.0	并	
+遵	abide by	ジュン	15.0	并	put together
 遷	transition	セン	15.0	辶	scooter
 遷	transition	セン	15.0	西	cover
 遷	transition	セン	15.0	大	big
@@ -6850,7 +6854,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 金	gold	キン、コン、かね、かな	8.0	金	gold
 釜	kettle	かま	10.0	一	one
 釜	kettle	かま	10.0	干	dry
-釜	kettle	かま	10.0	并	
+釜	kettle	かま	10.0	并	put together
 釜	kettle	かま	10.0	父	father
 釜	kettle	かま	10.0	王	jade
 釜	kettle	かま	10.0	丶	dot
@@ -6874,7 +6878,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 鉄	iron	テツ	13.0	大	big
 鉛	lead	エン、なまり	13.0	金	gold
 鉛	lead	エン、なまり	13.0	口	mouth
-鉛	lead	エン、なまり	13.0	并	
+鉛	lead	エン、なまり	13.0	并	put together
 鉛	lead	エン、なまり	13.0	ハ	fins
 鉢	bowl	ハチ、ハツ	13.0	一	one
 鉢	bowl	ハチ、ハツ	13.0	金	gold
@@ -6901,7 +6905,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 銭	coin	セン、ぜに	14.0	丶	dot
 鋭	pointed	エイ、するどい	15.0	金	gold
 鋭	pointed	エイ、するどい	15.0	口	mouth
-鋭	pointed	エイ、するどい	15.0	并	
+鋭	pointed	エイ、するどい	15.0	并	put together
 鋭	pointed	エイ、するどい	15.0	𠆢	
 鋭	pointed	エイ、するどい	15.0	儿	son, legs
 鋳	casting	チュウ、いる	15.0	ノ	
@@ -6910,7 +6914,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 鋳	casting	チュウ、いる	15.0	金	gold
 鋳	casting	チュウ、いる	15.0	寸	inch
 鋼	steel	コウ、はがね	16.0	金	gold
-鋼	steel	コウ、はがね	16.0	并	
+鋼	steel	コウ、はがね	16.0	并	put together
 鋼	steel	コウ、はがね	16.0	冂	wide
 鋼	steel	コウ、はがね	16.0	山	mountain
 鋼	steel	コウ、はがね	16.0	岡	hill
@@ -6926,7 +6930,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 錬	tempering	レン	16.0	日	sun
 錬	tempering	レン	16.0	木	tree
 錬	tempering	レン	16.0	田	field
-錬	tempering	レン	16.0	并	
+錬	tempering	レン	16.0	并	put together
 錬	tempering	レン	16.0	ハ	fins
 錮	tie up	コ	16.0	金	gold
 錮	tie up	コ	16.0	口	mouth
@@ -6954,7 +6958,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 鎌	sickle	かま	18.0	丶	dot
 鎌	sickle	かま	18.0	ノ	
 鎌	sickle	かま	18.0	ヨ	
-鎌	sickle	かま	18.0	并	
+鎌	sickle	かま	18.0	并	put together
 鎌	sickle	かま	18.0	ハ	fins
 鎖	chain	サ、くさり	18.0	貝	shell
 鎖	chain	サ、くさり	18.0	目	eye
@@ -6963,7 +6967,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 鎖	chain	サ、くさり	18.0	⺌	small
 鎮	tranquilize	チン、しずめる、しずまる	18.0	金	gold
 鎮	tranquilize	チン、しずめる、しずまる	18.0	十	ten
-鎮	tranquilize	チン、しずめる、しずまる	18.0	并	
+鎮	tranquilize	チン、しずめる、しずまる	18.0	并	put together
 鎮	tranquilize	チン、しずめる、しずまる	18.0	目	eye
 鎮	tranquilize	チン、しずめる、しずまる	18.0	一	one
 鎮	tranquilize	チン、しずめる、しずまる	18.0	ハ	fins
@@ -6997,7 +7001,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 関	related	カン、せき、かかわる	14.0	二	two
 関	related	カン、せき、かかわる	14.0	ハ	fins
 関	related	カン、せき、かかわる	14.0	門	gate
-関	related	カン、せき、かかわる	14.0	并	
+関	related	カン、せき、かかわる	14.0	并	put together
 閣	tall	カク	14.0	口	mouth
 閣	tall	カク	14.0	門	gate
 閣	tall	カク	14.0	夂	go
@@ -7005,7 +7009,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 閥	clique	バツ	14.0	門	gate
 閥	clique	バツ	14.0	戈	halberd
 閲	review	エツ	15.0	口	mouth
-閲	review	エツ	15.0	并	
+閲	review	エツ	15.0	并	put together
 閲	review	エツ	15.0	門	gate
 閲	review	エツ	15.0	儿	son, legs
 闇	darkness	やみ	17.0	音	sound
@@ -7015,7 +7019,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 闘	fight	トウ、たたかう	18.0	口	mouth
 闘	fight	トウ、たたかう	18.0	寸	inch
 闘	fight	トウ、たたかう	18.0	豆	bean
-闘	fight	トウ、たたかう	18.0	并	
+闘	fight	トウ、たたかう	18.0	并	put together
 闘	fight	トウ、たたかう	18.0	門	gate
 阜	mound	フ	8.0	⻖	mound
 阜	mound	フ	8.0	十	ten
@@ -7092,7 +7096,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 隆	hump	リュウ	11.0	生	life
 隆	hump	リュウ	11.0	夂	go
 隆	hump	リュウ	11.0	⻖	mound
-隊	group	タイ	12.0	并	
+隊	group	タイ	12.0	并	put together
 隊	group	タイ	12.0	豕	pig
 隊	group	タイ	12.0	⻖	mound
 階	floor of a building	カイ	12.0	白	white
@@ -7309,7 +7313,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 頭	head	トウ、ズ、ト、あたま、かしら	16.0	ハ	fins
 頭	head	トウ、ズ、ト、あたま、かしら	16.0	口	mouth
 頭	head	トウ、ズ、ト、あたま、かしら	16.0	豆	bean
-頭	head	トウ、ズ、ト、あたま、かしら	16.0	并	
+頭	head	トウ、ズ、ト、あたま、かしら	16.0	并	put together
 頭	head	トウ、ズ、ト、あたま、かしら	16.0	頁	leaf
 頻	repeatedly	ヒン	17.0	ノ	
 頻	repeatedly	ヒン	17.0	貝	shell
@@ -7405,7 +7409,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 飾	decorate	ショク、かざる	13.0	食	eat
 養	foster	ヨウ、やしなう	15.0	王	jade
 養	foster	ヨウ、やしなう	15.0	食	eat
-養	foster	ヨウ、やしなう	15.0	并	
+養	foster	ヨウ、やしなう	15.0	并	put together
 養	foster	ヨウ、やしなう	15.0	羊	sheep
 餓	starve	ガ	15.0	食	eat
 餓	starve	ガ	15.0	亅	hook
@@ -7416,7 +7420,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 館	public building	カン、やかた	16.0	宀	roof
 首	neck	シュ、くび	9.0	自	self
 首	neck	シュ、くび	9.0	首	head
-首	neck	シュ、くび	9.0	并	
+首	neck	シュ、くび	9.0	并	put together
 首	neck	シュ、くび	9.0	目	eye
 香	incense	コウ、キョウ、か、かおり、かおる	9.0	禾	grain
 香	incense	コウ、キョウ、か、かおり、かおる	9.0	香	fragrant
@@ -7451,7 +7455,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 験	test	ケン、ゲン	18.0	𠆢	
 騰	inflation	トウ	20.0	月	moon
 騰	inflation	トウ	20.0	馬	horse
-騰	inflation	トウ	20.0	并	
+騰	inflation	トウ	20.0	并	put together
 騰	inflation	トウ	20.0	一	one
 騰	inflation	トウ	20.0	人	man
 騰	inflation	トウ	20.0	大	big
@@ -7526,7 +7530,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 鮮	fresh	セン、あざやか	17.0	王	jade
 鮮	fresh	セン、あざやか	17.0	魚	fish
 鮮	fresh	セン、あざやか	17.0	田	field
-鮮	fresh	セン、あざやか	17.0	并	
+鮮	fresh	セン、あざやか	17.0	并	put together
 鮮	fresh	セン、あざやか	17.0	羊	sheep
 鮮	fresh	セン、あざやか	17.0	灬	fire
 鯨	whale	ゲイ、くじら	19.0	魚	fish
@@ -7583,7 +7587,7 @@ kanji	kanji_meaning	kanji_readings	kanji_strokes	component	component_meaning
 鼓	drum	コ、つづみ	13.0	士	scholar
 鼓	drum	コ、つづみ	13.0	支	branch
 鼓	drum	コ、つづみ	13.0	豆	bean
-鼓	drum	コ、つづみ	13.0	并	
+鼓	drum	コ、つづみ	13.0	并	put together
 鼓	drum	コ、つづみ	13.0	又	again
 鼓	drum	コ、つづみ	13.0	十	ten
 鼓	drum	コ、つづみ	13.0	鼓	drum
