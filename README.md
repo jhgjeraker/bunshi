@@ -38,7 +38,7 @@ Each kanji is shown with its meaning, On'yomi and Kun'yomi readings, and individ
         ├───────────────────────
         ├── 辶, scooter
         ├── 自, self
-        ├── 并,
+        ├── 并, put together
         └── 首, head
 ```
 I had to adjust the output above as GitHub render fullwidth characters at 1.5x (?) width, unlike terminals which use proper 2x.
