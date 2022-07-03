@@ -2,4 +2,4 @@ import bunshi
 
 
 if __name__ == '__main__':
-    bunshi.cli.main()
+    bunshi.cli.entry_point()

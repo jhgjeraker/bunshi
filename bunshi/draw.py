@@ -1,10 +1,10 @@
 # This file is part of bunshi, a kanji breakdown cli.
 # License: GNU GPL version 3, see the file "LICENCE" for details.
 
-import bunshi.inout as inout
+import bunshi
 
 
-def _draw_down_symbol(col: int, kanji: dict, rows: list) -> list[str]:
+def _draw_horisontal_branch(rows: list, col: int, kanji: dict) -> list[str]:
     # Insert a column pipe for each existing row.
     for i in range(len(rows)):
         rows[i][col] = '│'
@@ -38,24 +38,30 @@ def _draw_down_symbol(col: int, kanji: dict, rows: list) -> list[str]:
     return rows
 
 
-def draw_down(entry, breakdown):
-    print(entry)
+def draw_horisontal(string: str):
+    print(string)
+    n = len(string)
     rows = []
 
-    row = 0
-    n = len(entry)
-    for i in range(n):
-        col = n - i - 1
-        symbol = entry[col]
+    breakdown = bunshi.breakdown(string)
+    assert len(breakdown) == n
 
-        if symbol in breakdown:
-            rows = _draw_down_symbol(col*2, breakdown[symbol], rows)
+    row = 0
+    for i in range(n):
+        # Reverse the order to allow for simpler drawing.
+        column = n - i - 1
+
+        breakdown_entry = breakdown[column]
+        if breakdown_entry is None:
+            continue
+
+        # The columns is multiplied by 2 to account for full-width chars.
+        rows = _draw_horisontal_branch(rows, column*2, breakdown_entry)
 
     for row in rows:
         print(''.join(row))
 
 
 def draw_breakdown(entry):
-    breakdown = inout._load_breakdown()
     # Currently, only one drawing method is supported.
-    draw_down(entry, breakdown)
+    draw_horisontal(entry)

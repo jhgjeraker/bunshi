@@ -1,20 +1,6 @@
 # This file is part of bunshi, a kanji breakdown cli.
 # License: GNU GPL version 3, see the file "LICENCE" for details.
 
-import argparse
-
-
-def parse_arguments():
-    parser = argparse.ArgumentParser()
-
-    parser.add_argument(
-        'entry',
-        type=str,
-        help='kanji, word, or sentence to breakdown',
-    )
-
-    return parser.parse_args()
-
 
 def _load_breakdown():
     breakdown = dict()
@@ -46,3 +32,14 @@ def _load_breakdown():
             breakdown[columns[0]]['components'][columns[4]] = columns[5]
 
     return breakdown
+
+
+KANJI_DICT: dict = _load_breakdown()
+
+
+def _breakdown_single(symbol: str) -> dict | None:
+    return KANJI_DICT[symbol] if symbol in KANJI_DICT else None
+
+
+def breakdown(string: str) -> list[dict | None]:
+    return [_breakdown_single(s) for s in string]
