@@ -3,7 +3,7 @@
 
 import argparse
 
-import bunshi.draw as draw
+import bunshi
 
 
 def parse_arguments():
@@ -16,10 +16,19 @@ def parse_arguments():
         type=str,
         help='kanji, word, or sentence (full-wdith)',
     )
+    parser.add_argument(
+        '--breakdown',
+        type=str,
+        help='path to custom breakdown file',
+    )
 
     return parser.parse_args()
 
 
 def entry_point() -> None:
     args = parse_arguments()
-    draw.draw_breakdown(args.entry)
+
+    if args.breakdown is not None:
+        bunshi.BREAKDOWN_PATH = args.breakdown
+
+    bunshi.draw.draw_breakdown(args.entry)

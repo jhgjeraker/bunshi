@@ -3,11 +3,15 @@
 
 from typing import Optional
 
+import bunshi
 
-def _load_breakdown():
+KANJI_DICT = None
+
+
+def _load_breakdown(path: str):
     breakdown = dict()
 
-    with open('bunshi/assets/breakdown.tsv', 'r') as f:
+    with open(path, 'r') as f:
         lines = f.readlines()
 
         for line in lines:
@@ -36,12 +40,10 @@ def _load_breakdown():
     return breakdown
 
 
-KANJI_DICT: dict = _load_breakdown()
-
-
-def exists(symbol: str) -> bool:
-    return symbol in KANJI_DICT
-
-
 def breakdown(symbol: str) -> Optional[dict]:
-    return KANJI_DICT[symbol] if exists(symbol) else None
+    # Lazyload breakdown dictionary if necessary.
+    global KANJI_DICT
+    if KANJI_DICT is None:
+        KANJI_DICT = _load_breakdown(bunshi.BREAKDOWN_PATH)
+
+    return KANJI_DICT[symbol] if symbol in KANJI_DICT else None

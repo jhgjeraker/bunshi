@@ -3,6 +3,8 @@
 
 __VERSION__ = '0.1.0'
 
+BREAKDOWN_PATH = 'bunshi/assets/breakdown.tsv'
+
 import bunshi.cli as cli  # noqa
 import bunshi.draw as draw  # noqa
 
