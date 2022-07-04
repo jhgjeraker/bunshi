@@ -41,7 +41,7 @@ Each kanji is shown with its meaning, On'yomi and Kun'yomi readings, and individ
         ├── 并, put together
         └── 首, head
 ```
-I had to adjust the output above as GitHub render fullwidth characters at 1.5x (?) width, unlike terminals which use proper 2x.
+Had to adjust the output here as GitHub renders fullwidth at 1.5x (?) width, unlike terminals which use 2x.
 
 ## Custom Breakdowns
 The included breakdown is based on open-source assets and uses the offical [kangxi radicals](https://en.wikipedia.org/wiki/Kangxi_radical) as a basis for component names. While it would be great to include the breakdowns of both [KKLC](https://keystojapanese.com/klc/) and [WaniKani](https://www.wanikani.com/), I will not host their proprietary mnemonics and component names.
