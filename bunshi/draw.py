@@ -1,6 +1,9 @@
 # This file is part of bunshi, a kanji breakdown cli.
 # License: GNU GPL version 3, see the file "LICENCE" for details.
 
+import json
+from typing import Any
+
 import bunshi
 
 
@@ -38,12 +41,10 @@ def _draw_horisontal_branch(rows: list, col: int, kanji: dict) -> list[str]:
     return rows
 
 
-def draw_horisontal(string: str):
-    print(string)
-    n = len(string)
+def draw_horisontal(string: str) -> list[str]:
     rows = []
+    n = len(string)
 
-    row = 0
     for i in range(n):
         # Reverse the order to allow for simpler drawing.
         column = n - i - 1
@@ -55,10 +56,31 @@ def draw_horisontal(string: str):
         # The columns is multiplied by 2 to account for full-width chars.
         rows = _draw_horisontal_branch(rows, column*2, breakdown_entry)
 
+    # Convert each row in the list to complete strings.
+    output = []
+    rows.insert(0, string)
     for row in rows:
-        print(''.join(row))
+        output.append(''.join(row))
+
+    return output
 
 
-def draw_breakdown(entry):
-    # Currently, only one drawing method is supported.
-    draw_horisontal(entry)
+def draw_json(entry: str) -> list[str]:
+    rows = []
+
+    for i in range(len(entry)):
+        breakdown_entry = bunshi.breakdown(entry[i])
+        if breakdown_entry is None:
+            continue
+
+        rows.append(json.dumps(breakdown_entry, indent=4))
+
+    return rows
+
+
+def draw_breakdown(entry: str, args: Any) -> list[str]:
+    # Choose the appropriate method based on arguments.
+    if args.json:
+        return draw_json(entry)
+    else:
+        return draw_horisontal(entry)
