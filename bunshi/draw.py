@@ -41,15 +41,14 @@ def _draw_horisontal_branch(rows: list, col: int, kanji: dict) -> list[str]:
     return rows
 
 
-def draw_horisontal(string: str) -> list[str]:
+def draw_horisontal(entry: str) -> list[str]:
     rows = []
-    n = len(string)
 
-    for i in range(n):
+    for i in range(len(entry)):
         # Reverse the order to allow for simpler drawing.
-        column = n - i - 1
+        column = len(entry) - i - 1
 
-        breakdown_entry = bunshi.breakdown(string[column])
+        breakdown_entry = bunshi.breakdown(entry[column])
         if breakdown_entry is None:
             continue
 
@@ -58,7 +57,7 @@ def draw_horisontal(string: str) -> list[str]:
 
     # Convert each row in the list to complete strings.
     output = []
-    rows.insert(0, string)
+    rows.insert(0, entry)
     for row in rows:
         output.append(''.join(row))
 
