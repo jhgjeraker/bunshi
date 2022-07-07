@@ -21,6 +21,11 @@ def parse_arguments():
         type=str,
         help='path to custom breakdown file',
     )
+    parser.add_argument(
+        '--json',
+        action='store_true',
+        help='breakdown json output',
+    )
 
     return parser.parse_args()
 
@@ -31,4 +36,7 @@ def entry_point() -> None:
     if args.breakdown is not None:
         bunshi.BREAKDOWN_PATH = args.breakdown
 
-    bunshi.draw.draw_breakdown(args.entry)
+    rows = bunshi.draw.draw_breakdown(args.entry, args)
+
+    for row in rows:
+        print(row)
