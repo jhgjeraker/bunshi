@@ -7,53 +7,67 @@ from typing import Any
 import bunshi
 
 
-def _draw_horisontal_branch(rows: list, col: int, kanji: dict) -> list[str]:
-    # Insert a column pipe for each existing row.
-    for i in range(len(rows)):
-        rows[i][col] = '│'
+def draw_json(entry: str) -> list[str]:
+    rows = []
 
-    # The base print is static and can be hardcoded directly.
-    base = [' ' for _ in range(col)]
-    rows.append(base + ['│'])
-    rows.append(base + ['└── ', '{}, {} ─ {}'.format(
-        kanji['kanji'],
-        kanji['meaning'],
-        kanji['reading'],
-    )])
+    for i in range(len(entry)):
+        breakdown_entry = bunshi.breakdown(entry[i])
+        if breakdown_entry is None:
+            continue
 
-    # Indent the base by four spaces.
-    base += [' ' * 4]
-
-    # Add a separator between kanji and components. Purely visual.
-    rows.append(base + ['├──', '─' * (
-        4                               # whitespace and padding
-        + len(kanji['kanji'])
-        + len(kanji['meaning'])
-        + (len(kanji['reading']) * 2)   # 2x for full-width characters
-    )])
-
-    # Iterate though and add each component branch.
-    for i, component in enumerate(kanji['components']):
-        meaning = kanji['components'][component]
-        branch = '├── ' if i < len(kanji['components']) - 1 else '└── '
-        rows.append(base + [branch, component, f', {meaning}'])
+        breakdown_entry['key'] = entry[i]
+        rows.append(json.dumps(breakdown_entry, indent=4))
 
     return rows
 
 
-def draw_horisontal(entry: str) -> list[str]:
+def draw_cjk_branch(rows, key, data, col, branch, level=0):
+    # Insert a column pipe for each previous row.
+    if level == 0:
+        for i in range(len(rows)):
+            rows[i][col] = '│'
+
+    # Add readings only to level 0 entries.
+    readings = '' if level > 0 else f' ─ {data["readings"]}'
+
+    rows.append([' ' for _ in range(col)])
+    rows[-1] += [f'{branch} {key}, {data["meaning"]}{readings}']
+
+    # Connect the lower levels with a pipe if
+    # necessary, but skip last section of each level.
+    for i in range(1, level):
+        if rows[-2][col-(2*(i))][0] in ['│', '├']:
+            rows[-1][col-(2*(i))] = '│'
+
+    for i, symbol in enumerate(data['breakdown']):
+        rows = draw_cjk_branch(
+            rows,
+            symbol,
+            data['breakdown'][symbol],
+            col+2,
+            '├' if i < len(data['breakdown']) - 1 else '└',
+            level=level+1,
+        )
+
+    return rows
+
+
+def draw_cjk(entry: str) -> list[str]:
     rows = []
 
+    exists = []
+    entry_nb = 1
     for i in range(len(entry)):
-        # Reverse the order to allow for simpler drawing.
         column = len(entry) - i - 1
 
-        breakdown_entry = bunshi.breakdown(entry[column])
-        if breakdown_entry is None:
+        key = entry[column]
+        data = bunshi.breakdown(key)
+        if data is None or key in exists:
             continue
 
-        # The columns is multiplied by 2 to account for full-width chars.
-        rows = _draw_horisontal_branch(rows, column*2, breakdown_entry)
+        rows = draw_cjk_branch(rows, key, data, column*2, '└')
+        exists.append(key)
+        entry_nb += 1
 
     # Convert each row in the list to complete strings.
     output = []
@@ -64,22 +78,10 @@ def draw_horisontal(entry: str) -> list[str]:
     return output
 
 
-def draw_json(entry: str) -> list[str]:
-    rows = []
-
-    for i in range(len(entry)):
-        breakdown_entry = bunshi.breakdown(entry[i])
-        if breakdown_entry is None:
-            continue
-
-        rows.append(json.dumps(breakdown_entry, indent=4))
-
-    return rows
-
-
 def draw_breakdown(entry: str, args: Any) -> list[str]:
     # Choose the appropriate method based on arguments.
     if args.json:
         return draw_json(entry)
     else:
-        return draw_horisontal(entry)
+        # return draw_horisontal(entry)
+        return draw_cjk(entry)
