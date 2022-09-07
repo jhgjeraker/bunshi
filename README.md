@@ -1,5 +1,5 @@
 # Bunshi (分子)
-Kanji can be broken down into basic components, much like molecules into atoms. Popular courses like [KKLC](https://keystojapanese.com/klc/), [RTK](https://en.wikipedia.org/wiki/Remembering_the_Kanji_and_Remembering_the_Hanzi), and [WaniKani](https://www.wanikani.com/) uses component mnemonics as a method of memorizing kanji, so learning them is quite useful.
+Kanji can be broken down into one ore more base components. Popular courses like [KKLC](https://keystojapanese.com/klc/), [RTK](https://en.wikipedia.org/wiki/Remembering_the_Kanji_and_Remembering_the_Hanzi), and [WaniKani](https://www.wanikani.com/) uses component mnemonics as a method of memorizing kanji, so learning to recognize them can be quite useful.
 
 Bunshi is a tiny tool for kanji component decomposition in the terminal. I made it mostly to fill a gap in my existing study technique, significantly reducing the friction associated with component lookup in the browser.
 
@@ -21,11 +21,11 @@ Each kanji is shown with its meaning, On'yomi and Kun'yomi readings, and compone
 
 ```bash
 これ便利だね
-    │ └ 利, profit ─ リ、きく
-    │   ├ 禾, grain
-    │   │ ├ 丿, slash
-    │   │ └ 木, tree
-    │   └ 刂, knife
+    │└ 利, profit ─ リ、きく
+    │  ├ 禾, grain
+    │  │ ├ 丿, slash
+    │  │ └ 木, tree
+    │  └ 刂, knife
     └ 便, convenience ─ ベン、ビン、たより
       ├ 亻, man
       └ 更, grow late
@@ -35,10 +35,10 @@ Each kanji is shown with its meaning, On'yomi and Kun'yomi readings, and compone
           ├ 丿, slash
           └ 乀, slash
 ```
-Note that the output is designed for monospace fonts. I had to adjust the output here as GitHub renders fullwidth at 1.5x (?) width, unlike terminals which use 2x.
+Note that the output is designed for monospace fonts, unlike GitHub here, which I had to adjust manually.
 
 ## Custom Breakdowns
-Bunshi can be configured with a custom breakdown using the following command, and expects the same format as found in `./bunshi/assets/breakdown.tsv`.
+Bunshi can be configured with a custom breakdown on the same format as the included `./bunshi/assets/breakdown.tsv`.
 
 ```bash
 bunshi 列 --breakdown path/to/custom-breakdown.tsv
