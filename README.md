@@ -53,6 +53,8 @@ Bunshi sources its breakdowns from `./assets/breakdown.tsv`, a remix of the work
 
 - This publication has included material from the [CHISE project](http://www.chise.org/). License follows their terms.
 
+- This project uses a modified version of the `ids.txt` from [cjkvi-ids](https://github.com/cjkvi/cjkvi-ids) as the basis for resolving breakdowns.
+
 - This project uses material from the Wikipedia article [Kangxi radical](https://en.wikipedia.org/wiki/Kangxi_radical), which is released under the [Creative Commons Attribution-Share-Alike License 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
 
 - This project uses material from the Wikipedia article [List of jōyō kanji](https://en.wikipedia.org/wiki/List_of_j%C5%8Dy%C5%8D_kanji), which is released under the [Creative Commons Attribution-Share-Alike License 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
