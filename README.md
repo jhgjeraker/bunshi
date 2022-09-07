@@ -20,7 +20,7 @@ bunshi これ便利ですね
 Each kanji is shown with its meaning, On'yomi and Kun'yomi readings, and component breakdown.
 
 ```bash
-これ便利だね
+これ便利ですね
     │└ 利, profit ─ リ、きく
     │  ├ 禾, grain
     │  │ ├ 丿, slash
