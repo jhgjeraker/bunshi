@@ -1,5 +1,5 @@
 # Bunshi (分子)
-Kanji can be broken down into one ore more base components. Popular courses like [KKLC](https://keystojapanese.com/klc/), [RTK](https://en.wikipedia.org/wiki/Remembering_the_Kanji_and_Remembering_the_Hanzi), and [WaniKani](https://www.wanikani.com/) uses component mnemonics as a method of memorizing kanji, so learning to recognize them can be quite useful.
+Kanji can be broken down into one or more base components. Popular courses like [KKLC](https://keystojapanese.com/klc/), [RTK](https://en.wikipedia.org/wiki/Remembering_the_Kanji_and_Remembering_the_Hanzi), and [WaniKani](https://www.wanikani.com/) use component mnemonics as a method of memorizing kanji, so learning to recognize them can be quite useful.
 
 Bunshi is a tiny tool for kanji component decomposition in the terminal. I made it mostly to fill a gap in my existing study technique, significantly reducing the friction associated with component lookup in the browser.
 
